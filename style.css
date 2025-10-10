@@ -234,8 +234,8 @@ footer .creator {
 /* Phones (max-width: 768px) */
 @media (max-width: 768px) {
   header {
-    flex-direction: row;
-    align-items: flex-start;
+    flex-direction:;
+    align-items: center;
     padding: 15px 20px;
   }
 
